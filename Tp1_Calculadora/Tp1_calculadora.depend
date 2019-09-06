@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1567797283 source:c:\users\joel\desktop\tp1\tp1_calculadora\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"libreria.h"
+
+1567797186 source:c:\users\joel\desktop\tp1\tp1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"libreria.h"
+
+1567798773 c:\users\joel\desktop\tp1\tp1_calculadora\libreria.h
+
+1567813496 source:c:\users\alumno\desktop\tp1\tp1_calculadora\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"libreria.h"
+
+1567813496 c:\users\alumno\desktop\tp1\tp1_calculadora\libreria.h
+
+1567813496 source:c:\users\alumno\desktop\tp1\tp1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"libreria.h"
+
